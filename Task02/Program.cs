@@ -31,4 +31,4 @@ int SumNPos(int[] arr)
 int[] myArray = MyArra(7, -10, 10);
 printArr(myArray);
 int sum = SumNPos(myArray);
-Console.WriteLine($"{sum}");
+Console.WriteLine($"Cумма элементов, стоящих на нечётных позициях равна - {sum}");
